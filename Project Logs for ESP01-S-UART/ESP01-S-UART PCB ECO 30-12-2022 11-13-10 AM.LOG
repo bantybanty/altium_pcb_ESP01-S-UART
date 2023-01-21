@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPIO2 Pin=U1D-2
+Removed Pin From Net: NetName=GPIO0 Pin=U1D-9
+Removed Pin From Net: NetName=TXD_RXD_P Pin=U1D-12
+Added Pin To Net: NetName=TXD_RXD_P Pin=U1D-2

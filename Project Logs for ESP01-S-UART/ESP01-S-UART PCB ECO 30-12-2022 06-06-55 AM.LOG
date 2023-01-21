@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Power Member=FUSED
+Removed Member From Class: ClassName=High_Power Member=NetD3A_2
+Change Net Name : Old Net Name=FUSED New Net Name=FUSED_VCC
+Change Net Name : Old Net Name=NetD3A_2 New Net Name=FUSED_LED
+Added Member To Class: ClassName=High_Power Member=Wire FUSED_LED
+Added Member To Class: ClassName=Power Member=Wire FUSED_VCC

@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=GND Pin=SW1D-1
+Removed Pin From Net: NetName=RST Pin=SW1D-3
+Removed Pin From Net: NetName=RST Pin=SW1D-4
+Removed Pin From Net: NetName=GND Pin=SW2D-1
+Removed Pin From Net: NetName=NetR2D_1 Pin=SW2D-3
+Removed Pin From Net: NetName=NetR2D_1 Pin=SW2D-4
+Change Component Footprint: Designator=SW1D Old Footprint=TE FSM4JSMA New Footprint=PANASONIC EVPAW
+Change Component Footprint: Designator=SW2D Old Footprint=TE FSM4JSMA New Footprint=PANASONIC EVPAW
+Change Component Comment : Designator=SW1D Old Comment=FSM4JSMASTR New Comment=EVP-AWED4A
+Change Component Comment : Designator=SW2D Old Comment=FSM4JSMASTR New Comment=EVP-AWED4A
+Change component parameters: Designator = "SW1D" ("SW1D"); Footprint = "TE FSM4JSMA"; UniqueID = "\DSPNHLCK" ("\DSPNHLCK")
+Change component parameters (AddParameter): Name = "Actuator Height off PCB, Vertical"; Value = "0.60mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Orientation"; Value = "Top Actuated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_3020s.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EVP-AWED4A/8568275"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.02A @ 15VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ingress Protection"; Value = "IP67 - Dust Tight, Waterproof"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "29-12-2022 09:10:40 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "330gf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Outline"; Value = "3.00mm x 2.00mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EVP-AWED4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "EVPAW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P123440CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD (SMT) Tab"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2D" ("SW2D"); Footprint = "TE FSM4JSMA"; UniqueID = "\BHKMDONI" ("\BHKMDONI")
+Change component parameters (AddParameter): Name = "Actuator Height off PCB, Vertical"; Value = "0.60mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Orientation"; Value = "Top Actuated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_3020s.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EVP-AWED4A/8568275"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.02A @ 15VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ingress Protection"; Value = "IP67 - Dust Tight, Waterproof"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "29-12-2022 09:10:40 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "330gf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Outline"; Value = "3.00mm x 2.00mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EVP-AWED4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "EVPAW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P123440CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD (SMT) Tab"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RST Pin=SW1D-1
+Added Pin To Net: NetName=NetR2D_1 Pin=SW2D-1

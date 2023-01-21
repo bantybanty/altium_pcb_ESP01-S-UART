@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=LED_DATA_OUT Pin=J2A-2
+Removed Pin From Net: NetName=LED_DATA_OUT Pin=J2A-2
+Add Pin To Net: Unknown Pin: Pin J2A-3

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LDO-OUT-1117 Pin=R2B-1
+Change Component Designator: OldDesignator=C1B NewDesignator=C3B
+Change Component Designator: OldDesignator=C2B NewDesignator=C1B
+Change Component Designator: OldDesignator=C3B NewDesignator=C2B
+Change Component Designator: OldDesignator=J2A NewDesignator=J3A
+Change Component Designator: OldDesignator=J3A NewDesignator=J2A
+Change Component Designator: OldDesignator=R2B NewDesignator=R3B
+Change Component Designator: OldDesignator=R3B NewDesignator=R2B
+Add Pin To Net: Unknown Pin: Pin J3A-3
+Added Pin To Net: NetName=LDO+3.3V Pin=R3B-1

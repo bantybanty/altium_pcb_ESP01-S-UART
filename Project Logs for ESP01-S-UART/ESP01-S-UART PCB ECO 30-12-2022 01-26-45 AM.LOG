@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=Adjust Pin=U1B-1
+Removed Pin From Net: NetName=LDO-OUT-1117 Pin=U1B-2
+Removed Pin From Net: NetName=VCC Pin=U1B-3
+Removed Pin From Net: NetName=LDO-OUT-1117 Pin=U1B-4
+Removed Member From Class: ClassName=3_LDO Member=U1B
+Added Component: Designator=U(ON SEMI SOT-223 ST(318H))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub/Collateral/NCP1117LP-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/on-semiconductor/NCP1117LPSTADT3G/NCP1117LPSTADT3GOSCT-ND/4927883"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Iq)"; Value = "50µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "28-12-2022 09:44:13 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "TO-261-4, TO-261AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NCP1117LPSTADT3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protection Features"; Value = "Over Current, Over Temperature"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PSRR"; Value = "60dB (120Hz)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "NCP1117LPSTADT3GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Max)"; Value = "16.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "1.25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Dropout (Max)"; Value = "1.4V @ 1A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Adjust Pin=U-1
+Added Pin To Net: NetName=LDO-OUT-1117 Pin=U-2
+Added Pin To Net: NetName=VCC Pin=U-3
+Added Pin To Net: NetName=LDO-OUT-1117 Pin=U-4
+Added Member To Class: ClassName=3_LDO Member=Component U NCP1117LPSTADT3G

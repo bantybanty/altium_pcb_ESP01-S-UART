@@ -1,0 +1,118 @@
+Removed Pin From Net: NetName=GND Pin=C2C-1
+Removed Pin From Net: NetName=LDO-OUT-1117 Pin=C2C-2
+Removed Member From Class: ClassName=2_LDO Member=C2C
+Removed Member From Class: ClassName=Power Member=NetD1A_2
+Removed Member From Class: ClassName=Signal Member=NetD1C_A
+Removed Member From Class: ClassName=Signal Member=NetD4A_A
+Removed Member From Class: ClassName=Signal Member=NetJ1B_A5
+Removed Member From Class: ClassName=Signal Member=NetJ1B_B5
+Removed Member From Class: ClassName=Signal Member=NetR2D_1
+Change Component Designator: OldDesignator=C1A NewDesignator=C?
+Change Component Designator: OldDesignator=C1B NewDesignator=C?
+Change Component Designator: OldDesignator=C1C NewDesignator=C?
+Change Component Designator: OldDesignator=C1D NewDesignator=C?
+Change Component Designator: OldDesignator=C2A NewDesignator=C?
+Change Component Designator: OldDesignator=C2B NewDesignator=C?
+Change Component Designator: OldDesignator=C2D NewDesignator=C?
+Change Component Designator: OldDesignator=C3B NewDesignator=C?
+Change Component Designator: OldDesignator=C3C NewDesignator=C?
+Change Component Designator: OldDesignator=C4B NewDesignator=C?
+Change Component Designator: OldDesignator=C4C NewDesignator=C?
+Change Component Designator: OldDesignator=C5B NewDesignator=C?
+Change Component Designator: OldDesignator=C6B NewDesignator=C?
+Change Component Designator: OldDesignator=C7B NewDesignator=C?
+Change Component Designator: OldDesignator=D1A NewDesignator=D?
+Change Component Designator: OldDesignator=D1B NewDesignator=D?
+Change Component Designator: OldDesignator=D1C NewDesignator=D?
+Change Component Designator: OldDesignator=D2A NewDesignator=D?
+Change Component Designator: OldDesignator=D3A NewDesignator=D?
+Change Component Designator: OldDesignator=D4A NewDesignator=D?
+Change Component Designator: OldDesignator=F1A NewDesignator=F?
+Change Component Designator: OldDesignator=F1C NewDesignator=F?
+Change Component Designator: OldDesignator=F2A NewDesignator=F?
+Change Component Designator: OldDesignator=FB1B NewDesignator=FB?
+Change Component Designator: OldDesignator=H1A NewDesignator=H?
+Change Component Designator: OldDesignator=H2A NewDesignator=H?
+Change Component Designator: OldDesignator=H3A NewDesignator=H?
+Change Component Designator: OldDesignator=H4A NewDesignator=H?
+Change Component Designator: OldDesignator=J1A NewDesignator=J?
+Change Component Designator: OldDesignator=J1B NewDesignator=J?
+Change Component Designator: OldDesignator=J2A NewDesignator=J?
+Change Component Designator: OldDesignator=J3A NewDesignator=J?
+Change Component Designator: OldDesignator=JP1D NewDesignator=JP?
+Change Component Designator: OldDesignator=MOD1D NewDesignator=MOD?
+Change Component Designator: OldDesignator=Q1B NewDesignator=Q?
+Change Component Designator: OldDesignator=Q2B NewDesignator=Q?
+Change Component Designator: OldDesignator=R1A NewDesignator=R?
+Change Component Designator: OldDesignator=R1B NewDesignator=R?
+Change Component Designator: OldDesignator=R1C NewDesignator=R?
+Change Component Designator: OldDesignator=R1D NewDesignator=R?
+Change Component Designator: OldDesignator=R2B NewDesignator=R?
+Change Component Designator: OldDesignator=R2C NewDesignator=R?
+Change Component Designator: OldDesignator=R2D NewDesignator=R?
+Change Component Designator: OldDesignator=R3B NewDesignator=R?
+Change Component Designator: OldDesignator=R3C NewDesignator=R?
+Change Component Designator: OldDesignator=R3D NewDesignator=R?
+Change Component Designator: OldDesignator=R4B NewDesignator=R?
+Change Component Designator: OldDesignator=R4D NewDesignator=R?
+Change Component Designator: OldDesignator=R5B NewDesignator=R?
+Change Component Designator: OldDesignator=R6B NewDesignator=R?
+Change Component Designator: OldDesignator=SW1D NewDesignator=SW?
+Change Component Designator: OldDesignator=SW2D NewDesignator=SW?
+Change Component Designator: OldDesignator=U1B NewDesignator=U?
+Change Component Designator: OldDesignator=U1C NewDesignator=U?
+Change Component Designator: OldDesignator=U1D NewDesignator=U?
+Change Component Designator: OldDesignator=Y1B NewDesignator=Y?
+Added Component: Designator=C?(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(1411-3528)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "T495B106K025ATE750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1411 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/T495B106K025ATE750/KEMET/view-part/1680496/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=LDO+3.3V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=LDO+3.3V Pin=C?-2
+Added Pin To Net: NetName=LDO+3.3V Pin=C?-2
+Change Net Name : Old Net Name=NetC6B_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetD1A_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD1C_A New Net Name=NetD?_A
+Change Net Name : Old Net Name=NetD3A_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD4A_A New Net Name=NetD?_A
+Change Net Name : Old Net Name=NetJ1B_A5 New Net Name=NetJ?_A5
+Change Net Name : Old Net Name=NetJ1B_B5 New Net Name=NetJ?_B5
+Change Net Name : Old Net Name=NetJP1D_1 New Net Name=NetJP?_1
+Change Net Name : Old Net Name=NetQ1B_1 New Net Name=NetQ?_1
+Change Net Name : Old Net Name=NetQ2B_1 New Net Name=NetQ?_1
+Change Net Name : Old Net Name=NetR2D_1 New Net Name=NetR?_1
+Added Member To Class: ClassName=4_ESP_01 Member=Component C? 1uf
+Added Member To Class: ClassName=4_ESP_01 Member=Component C? 0.1uF
+Added Member To Class: ClassName=4_ESP_01 Member=Component C? 0.1uf
+Added Member To Class: ClassName=4_ESP_01 Member=Component C? 100uF
+Added Member To Class: ClassName=4_ESP_01 Member=Component R? 12K
+Added Member To Class: ClassName=Power Member=Wire NetD?_2
+Added Member To Class: ClassName=Signal Member=Wire NetD?_A
+Added Member To Class: ClassName=Signal Member=Wire NetJ?_A5
+Added Member To Class: ClassName=Signal Member=Wire NetJ?_B5
+Added Member To Class: ClassName=Signal Member=Wire NetR?_1

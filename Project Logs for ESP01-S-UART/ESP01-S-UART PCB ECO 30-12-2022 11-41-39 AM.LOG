@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=GPIO0_LED_TTL Pin=JP2D-1
+Added Pin To Net: NetName=GPIO0_LED_TTL Pin=U1D-11
+Added Net: Name=GPIO0_LED_TTL
+Added Pin To Net: NetName=GPIO2_LED_TTL Pin=JP1D-1
+Added Pin To Net: NetName=GPIO2_LED_TTL Pin=U1D-8
+Added Net: Name=GPIO2_LED_TTL
+Added Pin To Net: NetName=RX_LED_TTL Pin=JP1D-3
+Added Pin To Net: NetName=RX_LED_TTL Pin=U1D-3
+Added Net: Name=RX_LED_TTL
+Added Pin To Net: NetName=TX_LED_TTL Pin=JP2D-3
+Added Pin To Net: NetName=TX_LED_TTL Pin=U1D-6
+Added Net: Name=TX_LED_TTL
+Added Member To Class: ClassName=Signal Member=Wire GPIO0_LED_TTL
+Added Member To Class: ClassName=Signal Member=Wire GPIO2_LED_TTL
+Added Member To Class: ClassName=Signal Member=Wire RX_LED_TTL
+Added Member To Class: ClassName=Signal Member=Wire TX_LED_TTL

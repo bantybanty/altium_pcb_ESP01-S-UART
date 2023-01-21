@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC_IN Pin=J1A-1
+Removed Pin From Net: NetName=GND Pin=J1A-2
+Removed Pin From Net: NetName=GND Pin=J1A-3
+Removed Member From Class: ClassName=2_Input Member=J1A

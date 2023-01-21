@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=LED-OUT Pin=J3A-1
+Removed Pin From Net: NetName=LED_DATA_OUT Pin=J3A-2
+Removed Pin From Net: NetName=GND Pin=J3A-3
+Removed Pin From Net: NetName=LED_DATA_OUT Pin=JP1D-2
+Removed Pin From Net: NetName=NetJP1D_1 Pin=R4D-1
+Removed Pin From Net: NetName=GND Pin=U1D-3
+Removed Pin From Net: NetName=NetJP1D_1 Pin=U1D-4
+Removed Pin From Net: NetName=VCC Pin=U1D-5
+Removed Member From Class: ClassName=2_Input Member=J3A
+Removed Member From Class: ClassName=Signal Member=TXD_RXD_P
+Change Component Footprint: Designator=U1D Old Footprint=ON SEMI SC70-5  419AC-01 New Footprint=SOP65P640X110-14N
+Change Component Footprint: Designator=JP1D Old Footprint=Solder_Pad_2_Pin_NC_Small New Footprint=Solder_Pad_3_Pin_NC_Medium
+Change Component Comment : Designator=U1D Old Comment=NC7SZ125P5X New Comment=74VHCT125PW,118
+Change component parameters: Designator = "U1D" ("U1D"); Footprint = "ON SEMI SC70-5  419AC-01"; UniqueID = "\AKIZNYLA" ("\AKIZNYLA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "74HC125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOIC-14 STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC125/Nexperia%20USA%20Inc./view-part/560724/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6D(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1A(TE 282834-4)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282834&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/te-connectivity-amp-connectors/282834-4/A98335-ND/1153265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "15-01-2020 04:16:05 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Orientation"; Value = "Horizontal with Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "282834-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2.68"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Buchanan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A98335-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "16-30 AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Termination"; Value = "Screw - Rising Cage Clamp"; VariantName = "[No Variations]"
+Added Component: Designator=JP2D(Solder_Pad_3_Pin_NC_Medium)
+Added Component: Designator=R5D(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6D-1
+Added Pin To Net: NetName=VCC Pin=C6D-2
+Added Pin To Net: NetName=GND Pin=J1A-1
+Added Pin To Net: NetName=LED_DATA_OUT Pin=J1A-3
+Added Pin To Net: NetName=LED-OUT Pin=J1A-4
+Added Pin To Net: NetName=NetJP1D_1 Pin=U1D-3
+Added Pin To Net: NetName=GND Pin=U1D-4
+Added Pin To Net: NetName=TXD_RXD_N Pin=U1D-5
+Added Pin To Net: NetName=GND Pin=U1D-7
+Added Pin To Net: NetName=GPIO0 Pin=U1D-9
+Added Pin To Net: NetName=GND Pin=U1D-10
+Added Pin To Net: NetName=TXD_RXD_P Pin=U1D-12
+Added Pin To Net: NetName=GND Pin=U1D-13
+Added Pin To Net: NetName=VCC Pin=U1D-14
+Added Pin To Net: NetName=LED_CLOCK_OUT Pin=J1A-2
+Added Pin To Net: NetName=LED_CLOCK_OUT Pin=R5D-2
+Added Net: Name=LED_CLOCK_OUT
+Added Pin To Net: NetName=NetJP1D_2 Pin=JP1D-2
+Added Pin To Net: NetName=NetJP1D_2 Pin=R4D-1
+Added Net: Name=NetJP1D_2
+Added Pin To Net: NetName=NetJP1D_3 Pin=JP1D-3
+Added Pin To Net: NetName=NetJP1D_3 Pin=U1D-6
+Added Net: Name=NetJP1D_3
+Added Pin To Net: NetName=NetJP2D_1 Pin=JP2D-1
+Added Pin To Net: NetName=NetJP2D_1 Pin=U1D-8
+Added Net: Name=NetJP2D_1
+Added Pin To Net: NetName=NetJP2D_2 Pin=JP2D-2
+Added Pin To Net: NetName=NetJP2D_2 Pin=R5D-1
+Added Net: Name=NetJP2D_2
+Added Pin To Net: NetName=NetJP2D_3 Pin=JP2D-3
+Added Pin To Net: NetName=NetJP2D_3 Pin=U1D-11
+Added Net: Name=NetJP2D_3
+Added Member To Class: ClassName=5_ESP_01 Member=Component C6D 10uF
+Added Member To Class: ClassName=2_Input Member=Component J1A 282834-4
+Added Member To Class: ClassName=5_ESP_01 Member=Component JP2D Solder Pad
+Added Member To Class: ClassName=5_ESP_01 Member=Component R5D 33R
+Added Member To Class: ClassName=Signal Member=Wire CH_PD
+Added Member To Class: ClassName=Signal Member=Wire LED_CLOCK_OUT
+Added Member To Class: ClassName=Signal Member=Wire NetJP1D_3
+Added Member To Class: ClassName=Signal Member=Wire NetJP2D_1
+Added Member To Class: ClassName=Signal Member=Wire NetJP2D_3

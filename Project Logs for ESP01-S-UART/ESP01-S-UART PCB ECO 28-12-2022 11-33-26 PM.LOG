@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=Signal Member=NetR3D_1
+Change Component Designator: OldDesignator=C1D NewDesignator=C2D
+Change Component Designator: OldDesignator=R1D NewDesignator=R3D
+Change Component Designator: OldDesignator=R2D NewDesignator=R1D
+Change Component Designator: OldDesignator=R3D NewDesignator=R2D
+Added Component: Designator=C1D(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RST Pin=C1D-1
+Added Pin To Net: NetName=GND Pin=C1D-2
+Change Net Name : Old Net Name=NetR3D_1 New Net Name=NetR2D_1
+Added Member To Class: ClassName=4_ESP_01 Member=Component C2D 0.1uF
+Added Member To Class: ClassName=Signal Member=Wire NetR2D_1

@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Signal Member=NetR?_1
+Change Component Designator: OldDesignator=R? NewDesignator=R2D
+Change Component Designator: OldDesignator=R? NewDesignator=R3D
+Change Component Designator: OldDesignator=R? NewDesignator=R4D
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1D
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2D
+Add Pin To Net: Unknown Pin: Pin J2A-3
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR3D_1
+Added Member To Class: ClassName=4_ESP_01 Member=Component MOD1D ESP8266 ESP-01
+Added Member To Class: ClassName=4_ESP_01 Member=Component R2D 12K
+Added Member To Class: ClassName=4_ESP_01 Member=Component R4D 12K
+Added Member To Class: ClassName=4_ESP_01 Member=Component SW2D FSM4JSMASTR
+Added Member To Class: ClassName=Signal Member=Wire NetR3D_1

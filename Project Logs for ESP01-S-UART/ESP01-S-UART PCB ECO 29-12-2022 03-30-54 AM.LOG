@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=TXD_RXD_N Pin=MOD1D-2
+Removed Pin From Net: NetName=GPIO2 Pin=MOD1D-3
+Removed Pin From Net: NetName=CH_PD Pin=MOD1D-4
+Removed Pin From Net: NetName=GPIO0 Pin=MOD1D-5
+Removed Pin From Net: NetName=RST Pin=MOD1D-6
+Removed Pin From Net: NetName=TXD_RXD_P Pin=MOD1D-7
+Removed Pin From Net: NetName=TXD_RXD_N Pin=R3C-2
+Removed Pin From Net: NetName=TXD_RXD_P Pin=R4C-2
+Removed Member From Class: ClassName=Power Member=VCC_IN
+Change Component Library : Designator=MOD1D Old Library=ESP8266.IntLib New Library=ESP8266.SchLib
+Added Component: Designator=NT1C(Net-Tie-SMD)
+Add component (AddParameter): Name = "Value"; Value = "Net_Tie"; VariantName = "[No Variations]"
+Added Component: Designator=NT2C(Net-Tie-SMD)
+Add component (AddParameter): Name = "Value"; Value = "Net_Tie"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO2 Pin=MOD1D-2
+Added Pin To Net: NetName=GPIO0 Pin=MOD1D-3
+Added Pin To Net: NetName=CH_PD Pin=MOD1D-6
+Added Pin To Net: NetName=RST Pin=MOD1D-7
+Added Pin To Net: NetName=TXD_RXD_P Pin=NT1C-2
+Added Pin To Net: NetName=TXD_RXD_N Pin=NT2C-2
+Added Pin To Net: NetName=TXD_RXD_P Pin=R3C-2
+Added Pin To Net: NetName=TXD_RXD_N Pin=R4C-2
+Added Pin To Net: NetName=RXD Pin=MOD1D-4
+Added Pin To Net: NetName=RXD Pin=NT2C-1
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=MOD1D-5
+Added Pin To Net: NetName=TXD Pin=NT1C-1
+Added Net: Name=TXD
+Added Class: Name=High_Power
+Added Member To Class: ClassName=4_USB Member=Component NT1C Net_Tie
+Added Member To Class: ClassName=4_USB Member=Component NT2C Net_Tie
+Added Member To Class: ClassName=Signal Member=Wire GPIO0
+Added Member To Class: ClassName=Signal Member=Wire GPIO2
+Added Member To Class: ClassName=Power Member=Wire LDO+3.3V
+Added Member To Class: ClassName=Signal Member=Wire LED_DATA_OUT
+Added Member To Class: ClassName=Signal Member=Wire NetJP1D_1
+Added Member To Class: ClassName=Signal Member=Wire TXD
+Added Member To Class: ClassName=Power Member=Wire VCC

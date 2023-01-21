@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=LDO+3.3V Pin=R1D-2
+Added Pin To Net: NetName=LDO-OUT-1117 Pin=R1D-2

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=LED_DATA_OUT Pin=J3A-3
+Change Component Footprint: Designator=J3A Old Footprint=TE 282837-3 New Footprint=TE 282834-3
+Added Pin To Net: NetName=GND Pin=J3A-3

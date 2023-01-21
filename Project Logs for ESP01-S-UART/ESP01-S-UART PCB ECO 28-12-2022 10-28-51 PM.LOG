@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=RXD Pin=MOD1D-1
+Removed Pin From Net: NetName=LDO+3.3V Pin=MOD1D-2
+Removed Pin From Net: NetName=GPIO0 Pin=MOD1D-3
+Removed Pin From Net: NetName=GPIO2 Pin=MOD1D-5
+Removed Pin From Net: NetName=CH_PD Pin=MOD1D-6
+Removed Pin From Net: NetName=GND Pin=MOD1D-7
+Removed Pin From Net: NetName=TXD Pin=MOD1D-8
+Removed Member From Class: ClassName=4_ESP_01 Member=MOD1D
+Added Component: Designator=MOD?(ESP8266 ESP-01)
+Add Pin To Net: Unknown Pin: Pin J2A-3
+Added Pin To Net: NetName=GND Pin=MOD?-1
+Added Pin To Net: NetName=TXD Pin=MOD?-2
+Added Pin To Net: NetName=GPIO2 Pin=MOD?-3
+Added Pin To Net: NetName=CH_PD Pin=MOD?-4
+Added Pin To Net: NetName=GPIO0 Pin=MOD?-5
+Added Pin To Net: NetName=RXD Pin=MOD?-7
+Added Pin To Net: NetName=LDO+3.3V Pin=MOD?-8
+Added Pin To Net: NetName=RST Pin=MOD?-6
+Added Net: Name=RST
+Added Member To Class: ClassName=4_ESP_01 Member=Component MOD? ESP8266 ESP-01

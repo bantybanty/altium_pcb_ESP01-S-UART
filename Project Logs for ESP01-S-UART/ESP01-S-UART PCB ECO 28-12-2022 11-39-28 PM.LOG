@@ -1,0 +1,139 @@
+Removed Member From Class: ClassName=1_Input Member=C?
+Removed Member From Class: ClassName=2_LDO Member=C?
+Removed Member From Class: ClassName=3_USB Member=C?
+Removed Member From Class: ClassName=2_LDO Member=D?
+Removed Member From Class: ClassName=3_USB Member=D?
+Removed Member From Class: ClassName=2_LDO Member=F?
+Removed Member From Class: ClassName=3_USB Member=J?
+Removed Member From Class: ClassName=1_Input Member=R?
+Removed Member From Class: ClassName=2_LDO Member=R?
+Removed Member From Class: ClassName=4_ESP_01 Member=R?
+Removed Member From Class: ClassName=2_LDO Member=U?
+Removed Member From Class: ClassName=4_ESP_01 Member=U?
+Removed Member From Class: ClassName=Power Member=NetD?_2
+Removed Member From Class: ClassName=Signal Member=NetD?_A
+Removed Member From Class: ClassName=Signal Member=NetJ?_A5
+Removed Member From Class: ClassName=Signal Member=NetJ?_B5
+Removed Member From Class: ClassName=Signal Member=NetR?_1
+Change Component Designator: OldDesignator=C? NewDesignator=C1A
+Change Component Designator: OldDesignator=C? NewDesignator=C1B
+Change Component Designator: OldDesignator=C? NewDesignator=C1C
+Change Component Designator: OldDesignator=C? NewDesignator=C1D
+Change Component Designator: OldDesignator=C? NewDesignator=C2A
+Change Component Designator: OldDesignator=C? NewDesignator=C2B
+Change Component Designator: OldDesignator=C? NewDesignator=C2C
+Change Component Designator: OldDesignator=C? NewDesignator=C2D
+Change Component Designator: OldDesignator=C? NewDesignator=C3B
+Change Component Designator: OldDesignator=C? NewDesignator=C3C
+Change Component Designator: OldDesignator=C? NewDesignator=C3D
+Change Component Designator: OldDesignator=C? NewDesignator=C4B
+Change Component Designator: OldDesignator=C? NewDesignator=C4D
+Change Component Designator: OldDesignator=C? NewDesignator=C5B
+Change Component Designator: OldDesignator=C? NewDesignator=C5D
+Change Component Designator: OldDesignator=C? NewDesignator=C6B
+Change Component Designator: OldDesignator=C? NewDesignator=C7B
+Change Component Designator: OldDesignator=D? NewDesignator=D1A
+Change Component Designator: OldDesignator=D? NewDesignator=D1B
+Change Component Designator: OldDesignator=D? NewDesignator=D1C
+Change Component Designator: OldDesignator=D? NewDesignator=D2A
+Change Component Designator: OldDesignator=D? NewDesignator=D3A
+Change Component Designator: OldDesignator=D? NewDesignator=D4A
+Change Component Designator: OldDesignator=F? NewDesignator=F1A
+Change Component Designator: OldDesignator=F? NewDesignator=F1C
+Change Component Designator: OldDesignator=F? NewDesignator=F2A
+Change Component Designator: OldDesignator=FB? NewDesignator=FB1B
+Change Component Designator: OldDesignator=H? NewDesignator=H1A
+Change Component Designator: OldDesignator=H? NewDesignator=H2A
+Change Component Designator: OldDesignator=H? NewDesignator=H3A
+Change Component Designator: OldDesignator=H? NewDesignator=H4A
+Change Component Designator: OldDesignator=J? NewDesignator=J1A
+Change Component Designator: OldDesignator=J? NewDesignator=J1B
+Change Component Designator: OldDesignator=J? NewDesignator=J2A
+Change Component Designator: OldDesignator=J? NewDesignator=J3A
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1D
+Change Component Designator: OldDesignator=MOD? NewDesignator=MOD1D
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1B
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2B
+Change Component Designator: OldDesignator=R? NewDesignator=R1A
+Change Component Designator: OldDesignator=R? NewDesignator=R1B
+Change Component Designator: OldDesignator=R? NewDesignator=R1C
+Change Component Designator: OldDesignator=R? NewDesignator=R1D
+Change Component Designator: OldDesignator=R? NewDesignator=R2B
+Change Component Designator: OldDesignator=R? NewDesignator=R2C
+Change Component Designator: OldDesignator=R? NewDesignator=R2D
+Change Component Designator: OldDesignator=R? NewDesignator=R3B
+Change Component Designator: OldDesignator=R? NewDesignator=R3C
+Change Component Designator: OldDesignator=R? NewDesignator=R3D
+Change Component Designator: OldDesignator=R? NewDesignator=R4B
+Change Component Designator: OldDesignator=R? NewDesignator=R4D
+Change Component Designator: OldDesignator=R? NewDesignator=R5B
+Change Component Designator: OldDesignator=R? NewDesignator=R6B
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1D
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2D
+Change Component Designator: OldDesignator=U? NewDesignator=U1B
+Change Component Designator: OldDesignator=U? NewDesignator=U1C
+Change Component Designator: OldDesignator=U? NewDesignator=U1D
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1B
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC6B_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1A_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD3A_2
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetD1C_A
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetD4A_A
+Change Net Name : Old Net Name=NetJ?_A5 New Net Name=NetJ1B_A5
+Change Net Name : Old Net Name=NetJ?_B5 New Net Name=NetJ1B_B5
+Change Net Name : Old Net Name=NetJP?_1 New Net Name=NetJP1D_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1B_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2B_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR2D_1
+Added Member To Class: ClassName=1_Input Member=Component C1A 1000µF
+Added Member To Class: ClassName=3_USB Member=Component C1B 10nF
+Added Member To Class: ClassName=2_LDO Member=Component C1C 1000 µF/6.3V
+Added Member To Class: ClassName=4_ESP_01 Member=Component C1D 0.1uF
+Added Member To Class: ClassName=1_Input Member=Component C2A 0.1uf
+Added Member To Class: ClassName=3_USB Member=Component C2B 100nf
+Added Member To Class: ClassName=2_LDO Member=Component C2C 10uF
+Added Member To Class: ClassName=4_ESP_01 Member=Component C2D 100uF
+Added Member To Class: ClassName=3_USB Member=Component C3B 100nF
+Added Member To Class: ClassName=2_LDO Member=Component C3C 10uF
+Added Member To Class: ClassName=3_USB Member=Component C4B 100nF
+Added Member To Class: ClassName=4_ESP_01 Member=Component C4D 1uf
+Added Member To Class: ClassName=3_USB Member=Component C5B 22pF
+Added Member To Class: ClassName=4_ESP_01 Member=Component C5D 0.1uF
+Added Member To Class: ClassName=3_USB Member=Component C6B 100nF
+Added Member To Class: ClassName=3_USB Member=Component C7B 22pF
+Added Member To Class: ClassName=1_Input Member=Component D1A 1N5819HW-7-F
+Added Member To Class: ClassName=3_USB Member=Component D1B SRV05-4.TCT
+Added Member To Class: ClassName=2_LDO Member=Component D1C YELLOW
+Added Member To Class: ClassName=1_Input Member=Component D2A 1N5819HW-7-F
+Added Member To Class: ClassName=1_Input Member=Component D3A SS34-HF
+Added Member To Class: ClassName=1_Input Member=Component F1A 1A
+Added Member To Class: ClassName=2_LDO Member=Component F1C 1A
+Added Member To Class: ClassName=1_Input Member=Component H1A MOUNTING PAD, round
+Added Member To Class: ClassName=1_Input Member=Component H2A MOUNTING PAD, round
+Added Member To Class: ClassName=1_Input Member=Component H3A MOUNTING PAD, round
+Added Member To Class: ClassName=3_USB Member=Component J1B USB4510-03-1-A
+Added Member To Class: ClassName=1_Input Member=Component J2A 282837-3
+Added Member To Class: ClassName=1_Input Member=Component J3A 282837-2
+Added Member To Class: ClassName=3_USB Member=Component Q1B SS8050-G
+Added Member To Class: ClassName=1_Input Member=Component R1A 1.8K
+Added Member To Class: ClassName=3_USB Member=Component R1B 5.1K
+Added Member To Class: ClassName=2_LDO Member=Component R1C 82K
+Added Member To Class: ClassName=4_ESP_01 Member=Component R1D 12K
+Added Member To Class: ClassName=2_LDO Member=Component R2C 1.8K
+Added Member To Class: ClassName=4_ESP_01 Member=Component R2D 470R
+Added Member To Class: ClassName=3_USB Member=Component R3B 470R
+Added Member To Class: ClassName=2_LDO Member=Component R3C 50K
+Added Member To Class: ClassName=4_ESP_01 Member=Component R3D 12K
+Added Member To Class: ClassName=3_USB Member=Component R4B 470R
+Added Member To Class: ClassName=4_ESP_01 Member=Component R4D 33R
+Added Member To Class: ClassName=3_USB Member=Component R5B 12K
+Added Member To Class: ClassName=3_USB Member=Component R6B 12K
+Added Member To Class: ClassName=4_ESP_01 Member=Component SW2D FSM4JSMASTR
+Added Member To Class: ClassName=2_LDO Member=Component U1C ams1117
+Added Member To Class: ClassName=4_ESP_01 Member=Component U1D NC7SZ125P5X
+Added Member To Class: ClassName=Power Member=Wire NetD1A_2
+Added Member To Class: ClassName=Signal Member=Wire NetD1C_A
+Added Member To Class: ClassName=Signal Member=Wire NetD4A_A
+Added Member To Class: ClassName=Signal Member=Wire NetJ1B_A5
+Added Member To Class: ClassName=Signal Member=Wire NetJ1B_B5
+Added Member To Class: ClassName=Signal Member=Wire NetR2D_1

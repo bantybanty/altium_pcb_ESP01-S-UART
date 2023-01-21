@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=JP1D Old Footprint=SMT-JUMPER_2_NO_NO-SILK New Footprint=Solder_Pad_2_Pin_NC_Small
+Change Component Comment : Designator=JP1D Old Comment=JUMPER-SMT_2_NO_NO-SILK New Comment=Solder Pad
+Change Component Kind : Designator=JP1D Old Kind=Jumper New Kind=Standard
+Change component parameters: Designator = "JP1D" ("JP1D"); Footprint = "SMT-JUMPER_2_NO_NO-SILK"; UniqueID = "\CLONQPVP" ("\CLONQPVP")
+Added Pin To Net: NetName=NetJP1D_1 Pin=JP1D-1
+Added Pin To Net: NetName=LED_DATA_OUT Pin=JP1D-2

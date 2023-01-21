@@ -1,0 +1,20 @@
+Change Component Parameter Library Name in C1C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in C2C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in C3C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in C4C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in C5C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in C6C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in C7C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in D1C Old=Altium Content Vault New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in FB1C Old=Altium Content Vault New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in J1C Old=Footprint-Lib-PhilsLab.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in Q1C Old=Altium Content Vault New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in Q2C Old=Altium Content Vault New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in R1C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in R2C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in R3C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in R4C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in R5C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in R6C Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in U1C Old=Custom-IC.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in Y1C Old=Celestial Altium Library - altium_library.DbLib New=ESP01-S-UART.IntLib

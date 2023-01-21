@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=4_ESP_01 Member=C1B
+Removed Member From Class: ClassName=1_Input Member=D1B
+Removed Member From Class: ClassName=1_Input Member=F1C
+Removed Member From Class: ClassName=3_USB Member=R1D
+Removed Member From Class: ClassName=3_USB Member=U1C
+Change Component Designator: OldDesignator=C2D NewDesignator=C4D
+Change Component Designator: OldDesignator=C3D NewDesignator=C2D
+Change Component Designator: OldDesignator=C4D NewDesignator=C3D
+Added Member To Class: ClassName=2_LDO Member=Component C2C 10uF
+Added Member To Class: ClassName=4_ESP_01 Member=Component C4D 100uF
+Added Member To Class: ClassName=1_Input Member=Component D4A RED
+Added Member To Class: ClassName=1_Input Member=Component F2A 5A
+Added Member To Class: ClassName=1_Input Member=Component H4A MOUNTING PAD, round
+Added Member To Class: ClassName=3_USB Member=Component R2B 5.1K
+Added Member To Class: ClassName=3_USB Member=Component U1B CH340G

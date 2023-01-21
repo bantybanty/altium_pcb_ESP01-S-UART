@@ -1,0 +1,62 @@
+Change Component Library : Designator=D1C Old Library=Altium Content Vault New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=FB1C Old Library=Altium Content Vault New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=Q1C Old Library=Altium Content Vault New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=Q2C Old Library=Altium Content Vault New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=U1B Old Library=Altium Content Vault New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C1A Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C3B Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=D1A Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=D2A Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=D3A Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=J1A Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=J2A Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=SW1D Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=SW2D Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=Y1C Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=U1C Old Library=Custom-IC.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=U1D Old Library=Custom-IC.SchLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C1B Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C1C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C1D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C2A Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C2B Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C2C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C2D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C3C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C3D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C4C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C4D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C5C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C5D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C6C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C6D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=C7C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=JP1D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=JP2D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R1A Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R1B Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R1C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R1D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R2A Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R2B Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R2C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R2D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R3B Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R3C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R3D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R4C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R4D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R5C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R5D Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=R6C Old Library=Custom.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=H1A Old Library=Custom_Holes.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=H2A Old Library=Custom_Holes.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=H3A Old Library=Custom_Holes.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=H4A Old Library=Custom_Holes.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=MOD1D Old Library=ESP8266.SchLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=D1B Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=D4A Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=F1A Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=F1B Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=F2A Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP01-S-UART.IntLib
+Change Component Library : Designator=J1C Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP01-S-UART.IntLib

@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=High_Power Member=VCC_IN
+Change Net Name : Old Net Name=VCC_IN New Net Name=SUPPLY_IN
+Added Member To Class: ClassName=High_Power Member=Wire SUPPLY_IN

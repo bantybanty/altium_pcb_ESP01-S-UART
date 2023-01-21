@@ -1,0 +1,17 @@
+Change Component Parameter Library Name in C1D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in C2D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in C3D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in C4D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in C5D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in C6D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in JP1D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in JP2D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in MOD1D Old=ESP8266.SchLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in R1D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in R2D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in R3D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in R4D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in R5D Old=Custom.IntLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in SW1D Old=Celestial Altium Library - altium_library.DbLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in SW2D Old=Celestial Altium Library - altium_library.DbLib New=ESP01-S-UART.IntLib
+Change Component Parameter Library Name in U1D Old=Custom-IC.SchLib New=ESP01-S-UART.IntLib
